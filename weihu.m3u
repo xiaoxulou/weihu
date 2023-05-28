@@ -1,21 +1,4 @@
-#EXTINF:-1 group-title="客服",技术支持
-http://maomao.kandiantv.cn/douyu1.php?id=6140589
-#EXTINF:-1 group-title="客服",请加qq群
-http://maomao.kandiantv.cn/douyu1.php?id=36337
-#EXTINF:-1 group-title="客服", QQ群261964204
-http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/46d8664dacad4dbb9c790256688048dc/850.m3u8
-#EXTINF:-1 group-title="客服", 有问题联系qq群下方
-http://maomao.kandiantv.cn/douyu1.php?id=7701735
-#EXTINF:-1 group-title="客服", QQ群261964204
-http://epg.112114.xyz/douyu/8985415
-#EXTINF:-1 group-title="客服", QQ群261964204
-http://maomao.kandiantv.cn/douyu1.php?id=20415
 
-#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="体育",五星体育
-http://223.109.53.11/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
-
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="BESTV百事通",CCTV1
-http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000210103.m3u8
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="BESTV百事通",CCTV2
 http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203602.m3u8
 #EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="BESTV百事通",CCTV3
